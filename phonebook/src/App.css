@@ -7,11 +7,11 @@
   pointer-events: none;
 }
 
-@media (prefers-reduced-motion: no-preference) {
+/* @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
   }
-}
+} */
 
 .App-header {
   background-color: #282c34;
@@ -24,7 +24,15 @@
   color: white;
 }
 
-.App-link {
+.inputs {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  flex-direction: space-between;
+  margin-left: 2.5em;
+}
+
+/* .App-link {
   color: #61dafb;
 }
 
@@ -35,4 +43,49 @@
   to {
     transform: rotate(360deg);
   }
+} */
+
+.labels {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: left;
+  margin-left: 2.5em;
+  border: 1px solid black;
+}
+
+.label {
+  width: 25vh;
+  border-right: 1px solid black;
+}
+
+.contact {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  border: 1px solid black
+}
+
+.info {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.cell {
+  width: 25vh;
+  border-right: 1px solid black;
+}
+
+.update {
+  margin-right: 5px;
+}
+
+.delete {
+  margin-right: 5px;
+}
+
+button:hover {
+  cursor: pointer;
 }

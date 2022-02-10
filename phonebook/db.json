@@ -1,18 +1,76 @@
 {
   "contacts": [
     {
-      "id": 1,
-      "firstName": "John",
-      "lastName": "Smith",
-      "email": "a@a.com",
-      "gender": "Male"
+      "firstName": "johnny",
+      "lastName": "bryan",
+      "phone": "1234567890",
+      "email": "yo@mail.ru",
+      "gender": "MALE",
+      "id": 4
     },
     {
-      "firstName": "Alidad",
-      "lastName": "Soleimani",
-      "email": "alidad@dorisa.com",
+      "firstName": "test",
+      "lastName": "test",
+      "phone": "1234567890",
+      "email": "test@yo.com",
       "gender": "MALE",
-      "id": 2
+      "id": 5
+    },
+    {
+      "firstName": "yogi",
+      "lastName": "paturu",
+      "phone": "9876543210",
+      "email": "yog@yo.com",
+      "gender": "MALE",
+      "id": 6
+    },
+    {
+      "firstName": "sardor",
+      "lastName": "akhmedov",
+      "phone": "1234567890",
+      "email": "yoyoyo@mail.ru",
+      "gender": "MALE",
+      "id": 7
+    },
+    {
+      "firstName": "adam",
+      "lastName": "berry",
+      "phone": "3333334444",
+      "email": "bombito@yo.com",
+      "gender": "MALE",
+      "id": 8
+    },
+    {
+      "firstName": "bombito",
+      "lastName": "man",
+      "phone": "7777777777",
+      "email": "bombito@yo.com",
+      "gender": "MALE",
+      "id": 9
+    },
+    {
+      "firstName": "lesss",
+      "lastName": "gooo",
+      "phone": "1234567890",
+      "email": "bleh@yomail.com",
+      "gender": "MALE",
+      "id": 10
+    },
+    {
+      "firstName": "crazy",
+      "lastName": "man",
+      "phone": "1231231234",
+      "email": "hahahah@gmail.com",
+      "gender": "MALE",
+      "id": 11
+    },
+    {
+      "firstName": "shishito",
+      "lastName": "pepper",
+      "phone": "123456789",
+      "email": "sh@sh.com",
+      "gender": "FEMALE",
+      "id": 12
     }
   ]
 }

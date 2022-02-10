@@ -14,3 +14,18 @@ You will also see any lint errors in the console.
 Server:
 We are mocking the server using json-server:
 ### `npm run server`
+
+
+TODOS:
+
+ADD PHONE NUMBER INPUT 
+
+IMPLEMENT RELOAD UPON SUBMIT (COMPONENT DID UPDATE)
+
+ADD UPDATE / DELETE FOR EACH VALUE
+
+STYLE PHONE BOOK
+
+FORMAT PHONE VALUE ((206)369-2761)
+
+ADD TESTING
